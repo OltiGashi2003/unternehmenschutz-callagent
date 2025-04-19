@@ -3,9 +3,12 @@ livekit-plugins-openai
 livekit-plugins-silero
 livekit-plugins-cartesia
 livekit-plugins-deepgram
+livekit-plugins-turn-detector
 python-dotenv
 livekit-api
 flask[async]
 flask
 flask-cors
 uvicorn
+llama-index
+python-deepgram
